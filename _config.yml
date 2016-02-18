@@ -1,6 +1,6 @@
-title: Book
-description: Books about PhoneGap.
-baseurl: "/book" # the subpath of your site, e.g. /blog
+title: Tool
+description: Third party tools for working with PhoneGap.
+baseurl: "/tool" # the subpath of your site, e.g. /blog
 url: "http://phonegap.github.io" # the base hostname & protocol for your site
 
 paginate: 10
