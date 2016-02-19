@@ -3,6 +3,8 @@ description: Third party tools for working with PhoneGap.
 baseurl: "/tool" # the subpath of your site, e.g. /blog
 url: "http://phonegap.github.io" # the base hostname & protocol for your site
 
+gems: [jekyll-paginate]
+
 paginate: 10
 paginate_list_count: 7
 paginate_path: "/blog/page:num/"

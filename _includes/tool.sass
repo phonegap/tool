@@ -1,0 +1,33 @@
+.tool
+  position: relative
+  margin: 0 auto
+  max-width: 750px
+  margin-bottom: 60px
+  padding-bottom: 40px
+  border-bottom: 1px solid #C4C4C1
+  &:last-child
+    border-bottom: none
+  &__content
+    display: flex
+    flex-direction: column
+  &__description
+    flex-grow: 1
+    p:first-child
+      margin-top: 0
+  &__image
+    padding: 8px 30px 16px 0
+    img
+      width: 100px
+      height: auto
+  &__footer
+    text-align: right
+  &__author
+    font-size: 1.25rem
+    color: #999
+@media (min-width: 580px)
+  .tool
+    &__content
+      display: flex
+      flex-direction: row
+    &__image
+      padding: 8px 30px 0 0
