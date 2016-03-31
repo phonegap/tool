@@ -13,11 +13,7 @@ title: PhoneGap Third Party Tools
       <div class="tool__content">
         <div class="tool__image">
           <a href="{{ post.link }}">
-            {% if jekyll.environment == "production" %}
-              <img src="{{ post.thumb | prepend: site.baseurl | prepend: site.url }}" alt="{{ post.title }}"/>
-            {% else %}
-              <img src="{{ post.thumb }}" alt="{{ post.title }}"/>
-            {% endif %}
+            <img src="{{ post.thumb }}" alt="{{ post.title }}"/>
           </a>
         </div>
         <div class="tool__description">
