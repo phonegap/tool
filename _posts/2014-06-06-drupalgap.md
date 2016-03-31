@@ -2,7 +2,7 @@
 permalink: /tool/drupalgap
 title: DrupalGap
 type: tool
-thumb: /uploads/tool/2014-06/2014-06-06-drupalgap.jpg
+thumb: http://phonegap.com/uploads/tool/2014-06/2014-06-06-drupalgap.jpg
 date: 2014-06-06 06:07:03.637109 +00:00
 email: tyler@drupalgap.org
 developer: Tyler Frankenstein

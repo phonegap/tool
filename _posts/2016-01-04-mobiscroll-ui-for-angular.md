@@ -4,7 +4,7 @@ link: http://mobiscroll.com/angular
 status: publish
 email: hello@mobiscroll.com
 title: Mobiscroll UI for Angular
-thumb: /uploads/tool/2016-01/2016-01-04-mobiscroll-ui-for-angular.png
+thumb: http://phonegap.com/uploads/tool/2016-01/2016-01-04-mobiscroll-ui-for-angular.png
 developer: Mobiscroll
 date: 2016-01-04 09:21:08.715769 +00:00
 permalink: /tool/mobiscroll-ui-for-angular

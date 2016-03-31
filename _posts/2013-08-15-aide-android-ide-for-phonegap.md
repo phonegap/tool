@@ -5,7 +5,7 @@ link: http://www.android-ide.com/
 type: tool
 permalink: /tool/aide-android-ide-for-phonegap
 developer: appfour GmbH
-thumb: /uploads/tool/2013-08/2013-08-15-aide-android-ide-for-phonegap.png
+thumb: http://phonegap.com/uploads/tool/2013-08/2013-08-15-aide-android-ide-for-phonegap.png
 email: ide4android@googlemail.com
 status: publish
 ---

@@ -1,6 +1,6 @@
 --- 
 status: publish
-thumb: /uploads/tool/2012-10/2012-10-21-singly-social-sdk.png
+thumb: http://phonegap.com/uploads/tool/2012-10/2012-10-21-singly-social-sdk.png
 date: 2012-10-21 17:03:54.367094 +00:00
 developer: Singly
 title: Singly Social SDK

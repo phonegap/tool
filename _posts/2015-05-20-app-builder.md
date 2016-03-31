@@ -1,5 +1,5 @@
 --- 
-thumb: /uploads/tool/2015-05/2015-05-20-app-builder.png
+thumb: http://phonegap.com/uploads/tool/2015-05/2015-05-20-app-builder.png
 status: publish
 developer: David Esperalta
 email: info@davidesperalta.com

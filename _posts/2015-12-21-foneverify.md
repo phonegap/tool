@@ -4,7 +4,7 @@ link: http://www.foneverify.com
 status: publish
 title: foneverify
 email: shivam.arora@u2opiamobile.com
-thumb: /uploads/tool/2015-12/2015-12-21-foneverify.png
+thumb: http://phonegap.com/uploads/tool/2015-12/2015-12-21-foneverify.png
 developer: U2opia Mobile
 date: 2015-12-21 05:08:48.870169 +00:00
 permalink: /tool/foneverify

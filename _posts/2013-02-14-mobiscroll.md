@@ -4,7 +4,7 @@ email: hello@mobiscroll.com
 title: Mobiscroll
 status: publish
 type: tool
-thumb: /uploads/tool/2013-02/2013-02-14-mobiscroll.png
+thumb: http://phonegap.com/uploads/tool/2013-02/2013-02-14-mobiscroll.png
 permalink: /tool/mobiscroll
 developer: Acid Media
 link: http://mobiscroll.com

@@ -4,7 +4,8 @@ require 'rake'
 require 'yaml'
 require 'fileutils'
 require 'rbconfig'
-require 'html/proofer'
+require 'html-proofer'
+require "csv"
 
 # == Configuration =============================================================
 
@@ -139,10 +140,10 @@ desc "Serve and watch the site (with post limit or drafts)"
 task :watch, :option do |t, args|
   option = args[:option]
   if option.nil? or option.empty?
-    execute("jekyll serve --watch --baseurl ''")
+    execute("jekyll serve --watch")
   else
     if option == "drafts"
-      execute("jekyll serve --watch --drafts --baseurl ''")
+      execute("jekyll serve --watch --drafts")
     else
       execute("jekyll serve --watch --baseurl '' --limit_posts #{option}")
     end
@@ -164,9 +165,60 @@ task :preview do
   Rake::Task[:watch].invoke
 end
 
+
+desc "Delete older files from _site-test before running html proofer"
+task :deleteOldFiles do
+  sh 'rm -rf ./_site-test/blog/2008/ ./_site-test/blog/2009/ ./_site-test/blog/2010/ ./_site-test/blog/2011/ ./_site-test/blog/2012/ ./_site-test/blog/2013/ ./_site-test/blog/2014/ ./_site-test/blog/tag/phonegap-network/index.html'
+end
+
+desc "Convert HTML Proof log to CSV"
+task :convertLog do
+  filePath = './tmp/.htmlproofer/cache.log'
+  if File.exists? filePath
+    file = File.read(filePath)
+    data_hash = JSON.parse(file)
+    CSV.open("./tmp/.htmlproofer/log.csv", "wb") do |csv|
+      csv << ['Url','File','Status','Message']
+      data_hash.each do |attr_name, attr_value|
+        if attr_value['status'] != 200
+          data_array = [attr_name, attr_value['filenames'].join(","), attr_value['status'], attr_value['message']]
+          csv << data_array
+        end
+      end
+    end
+    puts './tmp/.htmlproofer/log.csv' + ' written'
+  else
+    puts filePath + " not found"
+  end
+end
+
 # rake test
 desc "build and test website"
 task :test do
   sh "bundle exec jekyll build"
-  HTML::Proofer.new("./_site", {:typhoeus => { :followlocation => true, :ssl_verifypeer => false, :headers => { 'User-Agent' => 'html-proofer' } }}).run
+  HTMLProofer.check_directory("./_site", {
+    :empty_alt_ignore => true,
+    :url_ignore => [
+      /\/app\/?/,
+      /\/blog\/?/,
+      '/book/',
+      '/event/',
+      '/getstarted/',
+      '/products/',
+      '/about/',
+      '/about/faq/',
+      '/about/license/',
+      '/about/logos/',
+      /\/getstarted\/?/,
+      /\/products\/?/
+    ],
+    :cache => {
+      :timeframe => '1d'
+    },
+    :typhoeus => {
+      :followlocation => true,
+      :ssl_verifypeer => false,
+      :headers => { 'User-Agent' => 'html-proofer' }
+    }
+  }).run
 end

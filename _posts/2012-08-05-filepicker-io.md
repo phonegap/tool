@@ -2,7 +2,7 @@
 status: publish
 developer: Brett CVZ
 email: brettcvz@filepicker.io
-thumb: /uploads/tool/2012-08/2012-08-05-filepicker-io.png
+thumb: http://phonegap.com/uploads/tool/2012-08/2012-08-05-filepicker-io.png
 type: tool
 date: 2012-08-05 21:20:42.207222 +00:00
 link: https://www.filepicker.io/

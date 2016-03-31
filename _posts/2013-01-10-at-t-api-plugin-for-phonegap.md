@@ -1,5 +1,5 @@
 --- 
-thumb: /uploads/tool/2013-01/2013-01-10-at-t-api-plugin-for-phonegap.jpg
+thumb: http://phonegap.com/uploads/tool/2013-01/2013-01-10-at-t-api-plugin-for-phonegap.jpg
 email: dk265a@att.com
 date: 2013-01-10 13:43:14.326376 -08:00
 developer: AT&T Developer Program

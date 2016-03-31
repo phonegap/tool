@@ -5,7 +5,7 @@ date: 2013-05-30 07:14:34.798053 +00:00
 title: Hipmob Live Chat and Mobile Helpdesk
 status: publish
 type: tool
-thumb: /uploads/tool/2013-05/2013-05-30-hipmob-live-chat-and-mobile-helpdesk.png
+thumb: http://phonegap.com/uploads/tool/2013-05/2013-05-30-hipmob-live-chat-and-mobile-helpdesk.png
 developer: Orthogonal Labs, Inc
 permalink: /tool/hipmob-live-chat-and-mobile-helpdesk
 ---

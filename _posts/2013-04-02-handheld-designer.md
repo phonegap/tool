@@ -2,7 +2,7 @@
 email: contact@handhelddesigner.com
 link: http://handhelddesigner.com
 developer: Handheld Designer, LLC
-thumb: /uploads/tool/2013-04/2013-04-02-handheld-designer.png
+thumb: http://phonegap.com/uploads/tool/2013-04/2013-04-02-handheld-designer.png
 date: 2013-04-02 04:39:09.413828 +00:00
 title: Handheld Designer
 permalink: /tool/handheld-designer

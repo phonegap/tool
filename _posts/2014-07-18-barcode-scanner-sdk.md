@@ -6,7 +6,7 @@ title: Barcode Scanner SDK
 developer: "Manatee Works, Inc. "
 link: http://manateeworks.com/
 type: tool
-thumb: /uploads/tool/2014-07/2014-07-18-barcode-scanner-sdk.png
+thumb: http://phonegap.com/uploads/tool/2014-07/2014-07-18-barcode-scanner-sdk.png
 status: publish
 ---
 

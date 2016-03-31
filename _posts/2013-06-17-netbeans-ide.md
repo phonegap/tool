@@ -5,7 +5,7 @@ title: NetBeans IDE
 status: publish
 type: tool
 permalink: /tool/netbeans-ide
-thumb: /uploads/tool/2013-06/2013-06-17-netbeans-ide.png
+thumb: http://phonegap.com/uploads/tool/2013-06/2013-06-17-netbeans-ide.png
 developer: Oracle and the NetBeans community
 date: 2013-06-17 08:34:43.753848 +00:00
 ---

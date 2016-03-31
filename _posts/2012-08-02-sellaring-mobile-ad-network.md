@@ -1,5 +1,5 @@
 --- 
-link: https://portal.sellaring.com/developer/signup.php?source=phoneGap&aId=9987898
+link: http://sellaring.com/blog/2012/08/phonegap-sellaring-the-easiest-way-to-earn-from-mobile-ads/
 permalink: /tool/sellaring-mobile-ad-network
 email: avi@sellaring.com
 status: publish
@@ -7,7 +7,7 @@ title: SellAring Mobile Ad Network
 type: tool
 developer: Avi Uziel
 date: 2012-08-02 19:56:42.934895 +00:00
-thumb: /uploads/tool/2012-08/2012-08-02-sellaring-mobile-ad-network.jpg
+thumb: http://phonegap.com/uploads/tool/2012-08/2012-08-02-sellaring-mobile-ad-network.jpg
 ---
 
 Sellaring is a mobile ad network for Android devices. 

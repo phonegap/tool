@@ -6,7 +6,7 @@ email: ""
 developer: LeadBolt
 title: LeadBolt Ad-serving SDK
 permalink: /tool/leadbolt-ad-serving-sdk
-thumb: /uploads/tool/2013-07/2013-07-23-leadbolt-ad-serving-sdk.png
+thumb: http://phonegap.com/uploads/tool/2013-07/2013-07-23-leadbolt-ad-serving-sdk.png
 status: publish
 ---
 

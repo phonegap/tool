@@ -1,6 +1,6 @@
 --- 
 link: https://github.com/logankoester/grunt-phonegap
-thumb: /uploads/tool/2014-01/2014-01-23-grunt-phonegap.png
+thumb: http://phonegap.com/uploads/tool/2014-01/2014-01-23-grunt-phonegap.png
 email: logan@logankoester.com
 type: tool
 title: grunt-phonegap

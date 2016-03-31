@@ -7,7 +7,7 @@ type: tool
 email: info@coders-hub.com
 status: publish
 title: Coders Hub
-thumb: /uploads/tool/2014-12/2014-12-26-coders-hub.png
+thumb: http://phonegap.com/uploads/tool/2014-12/2014-12-26-coders-hub.png
 ---
 
 For android developers and Java developers those want to get complete projects and code without headache.

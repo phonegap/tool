@@ -2,7 +2,7 @@
 title: Scandit Product Data API
 permalink: /tool/scandit-product-data-api
 type: tool
-thumb: /uploads/tool/2013-04/2013-04-29-scandit-product-data-api.PNG
+thumb: http://phonegap.com/uploads/tool/2013-04/2013-04-29-scandit-product-data-api.PNG
 developer: Scandit
 status: publish
 link: http://www.scandit.com/product-api/

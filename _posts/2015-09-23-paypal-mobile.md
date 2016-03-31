@@ -5,7 +5,7 @@ status: publish
 permalink: /tool/paypal-mobile
 type: tool
 developer: simicart
-thumb: /uploads/tool/2015-09/2015-09-23-paypal-mobile.jpg
+thumb: http://phonegap.com/uploads/tool/2015-09/2015-09-23-paypal-mobile.jpg
 link: http://www.simicart.com/paypal-mobile.html
 date: 2015-09-23 04:21:54.363900 +00:00
 ---

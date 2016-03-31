@@ -4,7 +4,7 @@ link: http://tapfortap.com/developers/sdk
 type: tool
 title: Tap for Tap Plugin
 permalink: /tool/tap-for-tap-plugin
-thumb: /uploads/tool/2012-11/2012-11-19-tap-for-tap-plugin.png
+thumb: http://phonegap.com/uploads/tool/2012-11/2012-11-19-tap-for-tap-plugin.png
 date: 2012-11-19 18:21:37.741561 +00:00
 email: Phil@tapfortap.com
 status: publish

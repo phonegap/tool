@@ -2,7 +2,7 @@
 developer: WebRatio
 email: paolo.riviello@webratio.com
 date: 2015-03-09 16:17:26.879850 +00:00
-thumb: /uploads/tool/2015-03/2015-03-09-webratio-mobile-platform.png
+thumb: http://phonegap.com/uploads/tool/2015-03/2015-03-09-webratio-mobile-platform.png
 title: WebRatio Mobile Platform
 permalink: /tool/webratio-mobile-platform
 type: tool

@@ -4,7 +4,7 @@ date: 2015-10-06 19:45:02.634982 +00:00
 developer: BuildFire
 email: daniel@buildfire.com
 type: tool
-thumb: /uploads/tool/2015-10/2015-10-06-buildfire-mobile-app-building-platform.png
+thumb: http://phonegap.com/uploads/tool/2015-10/2015-10-06-buildfire-mobile-app-building-platform.png
 title: BuildFire Mobile App Building Platform
 permalink: /tool/buildfire-mobile-app-building-platform
 status: publish

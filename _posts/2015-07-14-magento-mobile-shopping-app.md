@@ -7,7 +7,7 @@ date: 2015-07-14 09:01:10.429534 +00:00
 developer: Simicart
 permalink: /tool/magento-mobile-shopping-app
 email: kane@simicart.com
-thumb: /uploads/tool/2015-07/2015-07-14-magento-mobile-shopping-app.png
+thumb: http://phonegap.com/uploads/tool/2015-07/2015-07-14-magento-mobile-shopping-app.png
 ---
 
 CUSTOMERS ARE MOVING TO MOBILE

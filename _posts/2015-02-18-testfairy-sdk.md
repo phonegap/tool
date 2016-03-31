@@ -1,6 +1,6 @@
 --- 
 developer: TestFairy
-thumb: /uploads/tool/2015-02/2015-02-18-testfairy-sdk.png
+thumb: http://phonegap.com/uploads/tool/2015-02/2015-02-18-testfairy-sdk.png
 permalink: /tool/testfairy-sdk
 link: https://www.testfairy.com
 email: support@testfairy.com

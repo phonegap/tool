@@ -7,7 +7,7 @@ date: 2013-10-03 18:06:09.814327 +00:00
 title: Quantcast Measure for Apps SDK
 status: publish
 developer: Quantcast Corporation
-thumb: /uploads/tool/2013-10/2013-10-03-quantcast-measure-for-apps-sdk.png
+thumb: http://phonegap.com/uploads/tool/2013-10/2013-10-03-quantcast-measure-for-apps-sdk.png
 ---
 
 Quantcast Measure for Apps brings you the most complete demographics available so you can learn more about who's using your apps.

@@ -1,5 +1,5 @@
 --- 
-thumb: /uploads/tool/2013-03/2013-03-15-pokein-socket-library.png
+thumb: http://phonegap.com/uploads/tool/2013-03/2013-03-15-pokein-socket-library.png
 date: 2013-03-15 07:27:24.510492 +00:00
 email: ""
 developer: Zondig!

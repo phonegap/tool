@@ -3,7 +3,7 @@ permalink: /tool/the-m-project
 link: http://www.the-m-project.org
 email: info@panacoda.com
 status: publish
-thumb: /uploads/tool/2012-09/2012-09-20-the-m-project.png
+thumb: http://phonegap.com/uploads/tool/2012-09/2012-09-20-the-m-project.png
 developer: Panacoda & M-Way Solutions
 date: 2012-09-20 19:51:14.919383 +00:00
 type: tool

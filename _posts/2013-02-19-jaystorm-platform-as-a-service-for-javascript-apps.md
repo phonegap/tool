@@ -3,7 +3,7 @@ status: publish
 title: "JayStorm - Platform as a Service for Javascript Apps "
 link: http://www.jaystack.com
 developer: JayStack Technologies
-thumb: /uploads/tool/2013-02/2013-02-19-jaystorm-platform-as-a-service-for-javascript-apps.png
+thumb: http://phonegap.com/uploads/tool/2013-02/2013-02-19-jaystorm-platform-as-a-service-for-javascript-apps.png
 type: tool
 permalink: /tool/jaystorm-platform-as-a-service-for-javascript-apps
 date: 2013-02-19 17:51:10.617936 +00:00

@@ -2,7 +2,7 @@
 title: Contentful
 link: https://www.contentful.com
 status: publish
-thumb: /uploads/tool/2013-06/2013-06-27-contentful.png
+thumb: http://phonegap.com/uploads/tool/2013-06/2013-06-27-contentful.png
 type: tool
 email: support@contentful.com
 permalink: /tool/contentful

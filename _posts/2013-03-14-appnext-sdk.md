@@ -2,7 +2,7 @@
 title: Appnext SDK
 date: 2013-03-14 10:11:05.713036 +00:00
 developer: Appnext LTD
-thumb: /uploads/tool/2013-03/2013-03-14-appnext-sdk.png
+thumb: http://phonegap.com/uploads/tool/2013-03/2013-03-14-appnext-sdk.png
 email: david@appnext.com
 link: http://www.appnext.com
 status: publish

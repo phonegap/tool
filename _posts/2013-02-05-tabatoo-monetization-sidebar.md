@@ -1,5 +1,5 @@
 --- 
-thumb: /uploads/tool/2013-02/tabatoo-logo.png
+thumb: http://phonegap.com/uploads/tool/2013-02/tabatoo-logo.png
 permalink: /tool/tabatoo-monetization-sidebar
 email: info@tabaoo.com
 date: 2013-02-05 23:18:24.946171 +00:00

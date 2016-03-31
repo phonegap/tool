@@ -1,7 +1,7 @@
 --- 
 date: 2014-09-04 22:49:49.246972 +00:00
 email: contacts@yanchware.com
-thumb: /uploads/tool/2014-09/2014-09-04-socialgap.png
+thumb: http://phonegap.com/uploads/tool/2014-09/2014-09-04-socialgap.png
 permalink: /tool/socialgap
 developer: YanchWare
 status: publish

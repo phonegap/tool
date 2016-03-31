@@ -1,12 +1,12 @@
 --- 
 email: team@hipmob.com
 permalink: /tool/hipmob-in-app-knowledgebase-and-live-chat-cordova-plugin
-thumb: /uploads/tool/2013-12/2013-12-16-hipmob-in-app-knowledgebase-and-live-chat-cordova-plugin.png
+thumb: http://phonegap.com/uploads/tool/2013-12/2013-12-16-hipmob-in-app-knowledgebase-and-live-chat-cordova-plugin.png
 type: tool
 developer: Hipmob
 status: publish
 title: Hipmob In-App Knowledgebase and Live Chat Cordova Plugin
-link: http://www.hipmob.com/phonegap
+link: https://github.com/Hipmob/hipmob-phonegap
 date: 2013-12-16 18:06:47.303310 +00:00
 ---
 
