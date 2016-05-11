@@ -1,6 +1,6 @@
 title: Tools
 description: Third party tools for working with PhoneGap
-baseurl: "/tool" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://phonegap.com" # the base hostname & protocol for your site
 
 gems:
