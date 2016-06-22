@@ -209,6 +209,7 @@ task :test do
       '/about/faq/',
       '/about/license/',
       '/about/logos/',
+      '/about/contact/',
       '/tool/',
       /\/getstarted\/?/,
       /\/products\/?/
