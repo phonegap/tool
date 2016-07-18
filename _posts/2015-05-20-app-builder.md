@@ -1,10 +1,10 @@
---- 
+---
 thumb: http://phonegap.com/uploads/tool/2015-05/2015-05-20-app-builder.png
 status: publish
 developer: David Esperalta
 email: info@davidesperalta.com
 permalink: /tool/app-builder
-link: http://www.getappbuilder.com
+link: https://www.davidesperalta.com/appbuilder
 title: App Builder
 date: 2015-05-20 23:38:19.185832 +00:00
 type: tool
