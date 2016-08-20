@@ -31,7 +31,7 @@ title: PhoneGap Third Party Tools
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="pagination__previous">{% include images/arrow-right.svg %}Newer</a>
     {% else %}
-      <span class="pagination__previous">{% include images/arrow-right.svg %}Newer</span>
+      <span class="pagination__previous">{% include images/arrow-left.svg %}Newer</span>
     {% endif %}
 
     {% assign pagination_padding = site.paginate_list_count | divided_by: 2 %}
