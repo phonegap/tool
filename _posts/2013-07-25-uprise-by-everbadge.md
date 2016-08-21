@@ -1,4 +1,4 @@
---- 
+---
 link: http://everbadge.com
 developer: Everbadge LLC
 type: tool

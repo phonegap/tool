@@ -1,4 +1,4 @@
---- 
+---
 status: publish
 thumb: http://phonegap.com/uploads/tool/2012-10/2012-10-21-singly-social-sdk.png
 date: 2012-10-21 17:03:54.367094 +00:00

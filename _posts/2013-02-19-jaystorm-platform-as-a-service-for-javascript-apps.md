@@ -1,4 +1,4 @@
---- 
+---
 status: publish
 title: "JayStorm - Platform as a Service for Javascript Apps "
 link: http://www.jaystack.com

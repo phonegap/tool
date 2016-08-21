@@ -1,4 +1,4 @@
---- 
+---
 email: developers@manateeworks.com
 date: 2014-07-18 13:47:48.027876 +00:00
 permalink: /tool/barcode-scanner-sdk

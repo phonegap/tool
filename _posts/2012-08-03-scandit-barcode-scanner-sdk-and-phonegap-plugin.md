@@ -1,4 +1,4 @@
---- 
+---
 link: http://www.scandit.com/products/barcode-scanner/
 status: publish
 email: info@scandit.com

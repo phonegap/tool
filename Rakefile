@@ -198,6 +198,7 @@ task :test do
   sh "bundle exec jekyll build --config _config-test.yml"
   HTMLProofer.check_directory("./_site", {
     :empty_alt_ignore => true,
+    :http_status_ignore => [0, 403, 999],
     :url_ignore => [
       /\/app\/?/,
       /\/blog\/?/,

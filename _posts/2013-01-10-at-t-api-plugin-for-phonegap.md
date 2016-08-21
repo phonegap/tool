@@ -1,4 +1,4 @@
---- 
+---
 thumb: http://phonegap.com/uploads/tool/2013-01/2013-01-10-at-t-api-plugin-for-phonegap.jpg
 email: dk265a@att.com
 date: 2013-01-10 13:43:14.326376 -08:00
@@ -9,6 +9,5 @@ type: tool
 permalink: /tool/at-t-api-plugin-for-phonegap
 status: publish
 ---
-
 
 AT&T Developer Program and PhoneGap have enabled AT&T APIs to be accessible through the PhoneGap platform. Build and test with AT&T APIs effortlessly from within the PhoneGap development environment. Use the SDK to add features like: Advertising, Speech, Location, In App Messaging from Mobile Number, MMS and much more.

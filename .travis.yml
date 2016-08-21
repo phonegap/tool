@@ -1,7 +1,12 @@
-language: ruby
-rvm:
-- 2.2.3
-script: bundle exec rake test
+language: node_js
+node_js:
+  - "4.2"
+before_script:
+  - rvm install 2.2.3
+  - bundle install
+script:
+  - npm run lint
+  - bundle exec rake test
 sudo: false
 env:
   global:

@@ -1,4 +1,4 @@
---- 
+---
 permalink: /tool/the-m-project
 link: http://www.the-m-project.org
 email: info@panacoda.com
@@ -11,4 +11,3 @@ title: The-M-Project
 ---
 
 The-M-Project is a Mobile HTML5 framework to build cross-platform apps. It follows the MVC paradigma and comes with a great friend: Espresso. Espresso is the toolchain around The-M-Project and offers a test server, build script native packaging capabilties based on Phonegap and more great things.
-

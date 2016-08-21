@@ -1,4 +1,4 @@
---- 
+---
 status: publish
 thumb: http://phonegap.com/uploads/tool/2012-10/2012-10-21-quicklight.png
 date: 2012-10-21 20:55:40.963398 +00:00

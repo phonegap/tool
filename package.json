@@ -1,0 +1,13 @@
+{
+  "name": "phonegap-tool-site",
+  "version": "0.0.1",
+  "description": "The official PhoneGap tool site.",
+  "repository": "git@github.com:phonegap/tool.git",
+  "devDependencies": {
+    "markdownlint-cli": "^0.2.0"
+  },
+  "license": "Apache-2.0",
+  "scripts": {
+    "lint": "markdownlint _posts/"
+  }
+}

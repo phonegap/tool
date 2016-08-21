@@ -1,4 +1,4 @@
---- 
+---
 date: 2013-08-15 06:33:53.524282 +00:00
 title: AIDE - Android IDE for PhoneGap
 link: http://www.android-ide.com/

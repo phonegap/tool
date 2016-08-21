@@ -1,4 +1,4 @@
---- 
+---
 link: https://github.com/logankoester/grunt-phonegap
 thumb: http://phonegap.com/uploads/tool/2014-01/2014-01-23-grunt-phonegap.png
 email: logan@logankoester.com
@@ -15,4 +15,4 @@ A Grunt plugin for Phonegap applications.
 
 grunt-phonegap integrates Phonegap development with Grunt-based workflows by wrapping the Phonegap 3.0 command line interface.
 
-See http://gruntjs.com/ for more information about the Grunt task runner.
+See [gruntjs.com](http://gruntjs.com/) for more information about the Grunt task runner.

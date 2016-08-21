@@ -1,4 +1,4 @@
---- 
+---
 email: team@hipmob.com
 permalink: /tool/hipmob-in-app-knowledgebase-and-live-chat-cordova-plugin
 thumb: http://phonegap.com/uploads/tool/2013-12/2013-12-16-hipmob-in-app-knowledgebase-and-live-chat-cordova-plugin.png

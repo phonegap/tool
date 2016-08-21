@@ -1,4 +1,4 @@
---- 
+---
 email: ""
 permalink: /tool/numbox-jquery-plugin
 link: http://www.numbox.org/

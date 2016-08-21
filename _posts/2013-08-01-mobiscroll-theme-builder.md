@@ -1,4 +1,4 @@
---- 
+---
 developer: Acid Media
 link: http://mobiscroll.com/themebuilder/
 title: Mobiscroll Theme Builder
@@ -10,4 +10,4 @@ status: publish
 email: hello@mobiscroll.com
 ---
 
-Create custom themes for your UI components that perfectly fit into your app with Mobiscroll Theme Builder. It comes with an intuitive interface packing live preview. Start out with base presets, and just choose a couple of colors. We'll do the rest. 
+Create custom themes for your UI components that perfectly fit into your app with Mobiscroll Theme Builder. It comes with an intuitive interface packing live preview. Start out with base presets, and just choose a couple of colors. We'll do the rest.
