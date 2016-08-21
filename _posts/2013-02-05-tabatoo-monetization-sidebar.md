@@ -1,4 +1,4 @@
---- 
+---
 thumb: http://phonegap.com/uploads/tool/2013-02/tabatoo-logo.png
 permalink: /tool/tabatoo-monetization-sidebar
 email: info@tabaoo.com

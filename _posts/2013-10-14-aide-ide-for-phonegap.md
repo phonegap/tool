@@ -1,4 +1,4 @@
---- 
+---
 link: https://play.google.com/store/apps/details?id=com.aide.phonegap
 permalink: /tool/aide-ide-for-phonegap
 email: dennis@appfour.com

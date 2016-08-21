@@ -1,4 +1,4 @@
---- 
+---
 permalink: /tool/graphics-media-society-uos-gms
 developer: Shahroz Noumani
 type: tool

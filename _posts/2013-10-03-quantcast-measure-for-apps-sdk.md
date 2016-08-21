@@ -1,4 +1,4 @@
---- 
+---
 permalink: /tool/quantcast-measure-for-apps-sdk
 link: https://info.quantcast.com/MeasureApps_sdk_phonegap.html
 email: MeasureApps@quantcast.com

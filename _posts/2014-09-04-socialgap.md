@@ -12,4 +12,4 @@ type: tool
 
 SocialGap is a simple library intended to ease the integration of PhoneGap hybrid mobile apps with social networks. It is modular, so it can be easily extended and it reduces overhead since you import only the modules you need.
 
-https://github.com/YanchWare/SocialGap
+[GitHub repo](https://github.com/YanchWare/SocialGap).

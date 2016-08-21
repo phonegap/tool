@@ -1,4 +1,4 @@
---- 
+---
 thumb: http://phonegap.com/uploads/tool/2013-05/2013-05-31-mobiscan-barcode-scanner-sdk-phonegap-plugin.png
 link: http://manateeworks.com/
 status: publish

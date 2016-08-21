@@ -1,4 +1,4 @@
---- 
+---
 developer: Microsoft
 date: 2013-04-07 00:16:42.001119 +00:00
 thumb: http://phonegap.com/uploads/tool/2013-04/2013-04-07-windows-azure-mobile-services.png

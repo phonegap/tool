@@ -1,4 +1,4 @@
---- 
+---
 thumb: http://phonegap.com/uploads/tool/2014-08/2014-08-14-helpstack.png
 date: 2014-08-14 05:26:02.728947 +00:00
 permalink: /tool/helpstack

@@ -1,4 +1,4 @@
---- 
+---
 email: kane@simicart.com
 title: Paypal mobile
 status: publish
