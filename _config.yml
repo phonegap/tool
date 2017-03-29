@@ -7,7 +7,14 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
 
-exclude: [vendor]
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - Rakefile
+  - README.md
+  - package.json
 
 paginate: 10
 paginate_list_count: 7
